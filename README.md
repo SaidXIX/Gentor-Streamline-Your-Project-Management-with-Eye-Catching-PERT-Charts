@@ -1,6 +1,22 @@
 # Gentor: PERT Chart Generator
 
-Gentor is a web application that helps you create PERT charts for your projects. With GentorFlow, you can easily visualize your project's tasks, dependencies, and timelines in a beautiful and informative PERT chart.
+Gentor is a web application that helps you create PERT charts for your projects. With Gentor, you can easily visualize your project's tasks, dependencies, and timelines in a beautiful and informative PERT chart.
+
+## API 
+The Api used is AnyChart API
+
+## Programming Languages
+1. PHP
+2. JavaScript
+
+## Database
+MySql
+
+## Techs
+JSON
+
+## IDE 
+VsCode
 
 ## UI
 
@@ -10,9 +26,6 @@ Gentor is a web application that helps you create PERT charts for your projects.
 ![dashboard](dashboard.png)
 ![addproject](addproject.png)
 ![Pert](pertchart.png)
-
-## API 
-The Api used is AnyChart API
 
 
 ## About GentorFlow
