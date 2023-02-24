@@ -6,7 +6,7 @@ Gentor is a web application that helps you create PERT charts for your projects.
 
 ![homepage](homepage.png)
 ![signup](signup.png)
-![login](logins.png)
+![login](login.png)
 ![dashboard](dashboard.png)
 ![addproject](addproject.png)
 ![Pert](pertchart.png)
