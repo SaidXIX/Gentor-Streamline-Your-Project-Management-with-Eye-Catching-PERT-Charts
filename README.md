@@ -28,9 +28,9 @@ VsCode
 ![Pert](pertchart.png)
 
 
-## About GentorFlow
+## About Gentor
 
-GentorFlow is a project management tool designed to streamline your workflow and help you create beautiful and informative PERT charts. It was developed by a team of experienced project managers and software developers who understand the importance of visualizing project data in a clear and concise way.
+Gentor is a project management tool designed to streamline your workflow and help you create beautiful and informative PERT charts. It was developed by a team of experienced project managers and software developers who understand the importance of visualizing project data in a clear and concise way.
 
 ## Credits
 This Web Application was developed by [Said Bouziani]
